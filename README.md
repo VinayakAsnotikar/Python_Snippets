@@ -17,7 +17,7 @@ A sorting algorithm is used to rearrange a given list or an array of elements in
 
 ***********************************************************************************************************************************
 
-## Searching algorithms
+## Searching Algorithms
 A searching algorithm is used to check the presence of an element in a list or array and displays the position of the element in the list or array or will return a False if it is non-existent in the list. 
 
 This involves looking for a specific element in a list or array of elements. It detects its presence and will return a True or false if present or absent respectively. It can also return the position of the element in the list if it is present and return an ‘absent statement’ if it’s absent.
