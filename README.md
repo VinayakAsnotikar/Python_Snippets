@@ -6,8 +6,13 @@
 
 ***********************************************************************************************************************************
 
+<<<<<<< HEAD
 ## Sorting Algorithms
 A sorting algorithm is used to rearrange a given list or an array of elements in a defined order, either in increasing or decreasing order.
+=======
+## Sorting Algorithms+
+A sorting algorithm is used to rearrange a given list or an array of elements in a defined order, either increasing or decreasing.
+>>>>>>> fe93a185d5da8d29ba6ceecfaf36757a85f44452
 
 1)[Insertion_Sort.py](RandomPasswordGenerator.py): Simple python code for Insertion sort method.This sorting algorithm involves finding the right place for each element in the array. We begin by taking the first two elements and finding the position of each relative to the other. We then add the third element and compare it to the previous elements and find its position. Other elements are added gradually to the sorted list until the list is exhausted.
 
