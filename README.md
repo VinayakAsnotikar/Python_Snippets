@@ -1,11 +1,12 @@
 # Python_Snippets
-Random code
+
+## Random code
 
 1)[RandomPasswordGenerator.py](RandomPasswordGenerator.py): This is a basic python code to generate random 16 character passwords using letters (caps and small), numbers and symbols using random module.
 
 ***********************************************************************************************************************************
 
-Sorting Algorithms
+## Sorting Algorithms+
 A sorting algorithm is used to rearrange a given list or an array of elements in a defined order, either increasing or decreasing.
 
 1)[Insertion_Sort.py](RandomPasswordGenerator.py): Simple python code for Insertion sort method.This sorting algorithm involves finding the right place for each element in the array. We begin by taking the first two elements and finding the position of each relative to the other. We then add the third element and compare it to the previous elements and find its position. Other elements are added gradually to the sorted list until the list is exhausted.
@@ -16,7 +17,7 @@ A sorting algorithm is used to rearrange a given list or an array of elements in
 
 ***********************************************************************************************************************************
 
-Searching algorithms
+## Searching algorithms
 A searching algorithm is used to check the presence of an element in a list or array and displays the position of the element in the list or array or will return a False if it is non-existent in the list. 
 
 This involves looking for a specific element in a list or array of elements. It detects its presence and will return a True or false if present or absent respectively. It can also return the position of the element in the list if it is present and return an ‘absent statement’ if it’s absent.
