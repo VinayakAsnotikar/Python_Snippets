@@ -4,6 +4,8 @@
 
 1) [RandomPasswordGenerator.py](RandomPasswordGenerator.py): This is a basic python code to generate random 16 character passwords using letters (caps and small), numbers and symbols using random module.
 
+2)[Simple_Calculator.py](Simple_Calculator.py): This is one of the shortest and simplest calculator program in python you could ever found. We will create a calculator that will add, subtract, divide, and multiply two numbers. We will run the program until we don’t want to exit using a while loop, so that we can calculate as many as calculations we want.
+
 **************************************************************************************************************************************************
 
 ## II] Sorting Algorithms
