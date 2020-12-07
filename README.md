@@ -1,14 +1,19 @@
 # Python_Snippets
 
-## I] Random Code
+## I) Random Code
 
 1) [RandomPasswordGenerator.py](RandomPasswordGenerator.py): This is a basic python code to generate random 16 character passwords using letters (caps and small), numbers and symbols using random module.
 
-2)[Simple_Calculator.py](Simple_Calculator.py): This is one of the shortest and simplest calculator program in python you could ever found. We will create a calculator that will add, subtract, divide, and multiply two numbers. We will run the program until we don’t want to exit using a while loop, so that we can calculate as many as calculations we want.
+2) [Simple_Calculator.py](Simple_Calculator.py): This is one of the shortest and simplest calculator program in python you could ever found. We will create a calculator that will add, subtract, divide, and multiply two numbers. We will run the program until we don’t want to exit using a while loop, so that we can calculate as many as calculations we want.
+
+3) [Tower_of_Hanoi.py](Tower_of_Hanoi.py):Tower of Hanoi is a mathematical puzzle where we have three rods and n disks. The objective of the puzzle is to move the entire stack to another rod, obeying the following simple rules:
+    a) Only one disk can be moved at a time.
+    b) Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack i.e. a disk can only be moved if it is the uppermost disk on a stack.
+    c) No disk may be placed on top of a smaller disk.
 
 **************************************************************************************************************************************************
 
-## II] Sorting Algorithms
+## II) Sorting Algorithms
 A sorting algorithm is used to rearrange a given list or an array of elements in a defined order, either in increasing or decreasing order.
 
 1) [Insertion_Sort.py](RandomPasswordGenerator.py): Simple python code for Insertion sort method.This sorting algorithm involves finding the right place for each element in the array. We begin by taking the first two elements and finding the position of each relative to the other. We then add the third element and compare it to the previous elements and find its position. Other elements are added gradually to the sorted list until the list is exhausted.
@@ -19,7 +24,7 @@ A sorting algorithm is used to rearrange a given list or an array of elements in
 
 **************************************************************************************************************************************************
 
-## III] Searching Algorithms
+## III) Searching Algorithms
 A searching algorithm is used to check the presence of an element in a list or array and displays the position of the element in the list or array or will return a False if it is non-existent in the list. 
 
 This involves looking for a specific element in a list or array of elements. It detects its presence and will return a True or false if present or absent respectively. It can also return the position of the element in the list if it is present and return an ‘absent statement’ if it’s absent.
